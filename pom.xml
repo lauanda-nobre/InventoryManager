@@ -9,16 +9,16 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>SEAP</artifactId>
+    <artifactId>ifbademo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SEAP</name>
-    <description>SEAP - Software De Estoque De Auto Peças</description>
+    <name>Gerenciador de Estoque</name>
+    <description>Demo project for Spring Boot turma matutino</description>
     <url/>
     <licenses>
         <license/>
     </licenses>
     <developers>
-        <developer/>
+        Felipe,Lauanda,Raissa,João Vitor,Joshua
     </developers>
     <scm>
         <connection/>

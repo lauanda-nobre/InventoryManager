@@ -13,9 +13,7 @@ import java.time.LocalDateTime;
 public class EstoqueApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Projeto iniciado");
 		SpringApplication.run(EstoqueApplication.class, args);
-		
 	}
 
 	@Bean
